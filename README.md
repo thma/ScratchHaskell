@@ -1,5 +1,5 @@
 # ScratchHaskell
-a minimal docker image providing all runtime libs required by Haskell programs at runtime.
+a minimal docker image providing all runtime libs required by Haskell programs at runtime. But nothing else.
 
 ## basic idea
 The basic idea behind this project is to provide a streamlined docker image that provides 
